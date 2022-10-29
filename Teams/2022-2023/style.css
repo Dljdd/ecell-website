@@ -592,10 +592,12 @@ border-bottom: 4px solid orange;
   background-color: white;
   margin-top: 0px;
   margin-bottom: 0px;
+  padding: 16px;
 }
 #main-jumbotron .team-heading{
   border-right: 10px solid orange;
   border-left: 10px solid orange;
+  padding: 16px;
 }
 /* #0a305f */
 .team-heading {
