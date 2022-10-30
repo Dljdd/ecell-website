@@ -10,7 +10,8 @@ html{
 }
 body{
   min-height:auto;
-  background-color: #ffffff;
+  background-image: url("bg.png");
+  
   overflow-x: hidden;
 }
 .fa-home{
@@ -342,10 +343,13 @@ nav .navbar .links li .sub-menu li{
      margin-top: -7px;
     }
     .container .row .col-sm-6 img{
+      
   width: 100%;
 }
+
 .container .row  .col-sm-6 a button{
  margin-left: 60px;
+ font-size: 20px;
  text-align: center;
  
 }
@@ -418,6 +422,7 @@ form input[type=submit] {
     overflow-x: hidden;
   }
 }
+
 @media (max-width:370px){
   
 .links a:hover{
@@ -570,3 +575,4 @@ display: inline-flex;
 ::-webkit-scrollbar-thumb:hover {
    
 }
+
